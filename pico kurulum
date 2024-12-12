@@ -1,0 +1,6 @@
+raspberry pi pico nasıl kurulur (micropython)
+1.önce micropython sitesine git
+2.uf2 dosyasını indir
+3.picodaki bootsel butonuna basarak picoyu bilgisayara tak
+4.uf2 dosyasını piconun icine at
+thonny ile proglamlamaya başla
